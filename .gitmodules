@@ -1,0 +1,3 @@
+[submodule "src/csvquote"]
+	path = src/csvquote
+	url = https://github.com/dbro/csvquote.git
